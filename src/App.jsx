@@ -1,8 +1,5 @@
-
 function App() {
-  return (
-    <span>subscribe Zainkeepscode</span>
-  );
+  return <span>test</span>;
 }
 
 export default App;
