@@ -93,16 +93,16 @@ export const product = [{
         price: 3.0,
         qty: 1,
         category: "face & skin care",
-        cover: "./product1.jpg",
+        cover: "../images/product/product1.jpg",
         desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
     },
     {
         id: 2,
         name: "Acne Free Blackhead Removing Scrub",
-        price: 4.99,
+        price: 5.0,
         qty: 1,
         category: "beauty care",
-        cover: "./product2.jpg",
+        cover: "../images/product/product2.jpg",
         desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
     },
     {
@@ -144,7 +144,7 @@ export const product = [{
     {
         id: 7,
         name: "Biore Baking Soda Acne Scrub",
-        price: 6.99,
+        price: 7.0,
         qty: 1,
         category: "Beauty Care",
         cover: "../images/product/product7.jpg",
@@ -153,7 +153,7 @@ export const product = [{
     {
         id: 8,
         name: "CBD Hemp Extract",
-        price: 89.95,
+        price: 90.0,
         qty: 1,
         category: "Oral Care",
         cover: "../images/product/product8.png",
@@ -207,7 +207,7 @@ export const product = [{
     {
         id: 14,
         name: "First Response Multivitamin Gummy",
-        price: 9.99,
+        price: 10.0,
         qty: 1,
         category: "Contraceptive",
         cover: "../images/product/product14.png",
@@ -234,7 +234,7 @@ export const product = [{
     {
         id: 17,
         name: "I-Pill Emergency Contraceptive Pill",
-        price: 2.99,
+        price: 3.0,
         qty: 1,
         category: "Contraceptive",
         cover: "../images/product/product17.png",
@@ -243,7 +243,7 @@ export const product = [{
     {
         id: 18,
         name: "Innermost The Recover Capsules",
-        price: 15.95,
+        price: 16.0,
         qty: 1,
         category: "Medicine & First Aid",
         cover: "../images/product/product18.png",
