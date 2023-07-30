@@ -28,9 +28,6 @@ const Login = () => {
             <span>Password * </span>
             <input type="text" required />
             <button className="button">Register</button>
-            {/* <Link to="/register" className="link">
-              Sign In
-            </Link> */}
           </form>
         </div>
       </section>
